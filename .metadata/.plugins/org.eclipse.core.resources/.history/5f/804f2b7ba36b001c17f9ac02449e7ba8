@@ -1,0 +1,23 @@
+/* Mobile & tablet */
+@media (max-width: 1023px){
+    .header-logo_img{
+        background-position: center center;
+        padding-top: 10%;
+    }
+
+    .multimedia-right_news{
+        margin-top: 16px;
+    }
+
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    
+}
+
+/* Mobile */
+
+@media (min-width: 768px){
+    
+}

@@ -1,0 +1,26 @@
+/* Mobile & tablet */
+@media (max-width: 1020px){
+
+    .multimedia-right_news{
+        margin-top: 16px;
+        padding: 0 8px;
+    }
+
+    .multimedia-right{
+        margin-left: 0;
+    }
+
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1020px) {
+    
+}
+
+/* Mobile */
+
+@media (max-width: 768px){
+    .hide-on-mobile{
+        display: none;
+    }
+}

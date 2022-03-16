@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/bachkhoanews/conn/ConnectionUtils.java=UTF-8
+encoding//src/main/java/bachkhoanews/conn/MySQLConnUtils.java=UTF-8
+encoding//src/main/java/bachkhoanews/conn/OracleConnUtils.java=UTF-8
+encoding//src/main/java/bachkhoanews/conn/SQLServerConnUtils_JTDS.java=UTF-8
+encoding//src/main/java/bachkhoanews/conn/SQLServerConnUtils_SQLJDBC.java=UTF-8
+encoding//src/main/java/bachkhoanews/filter/CookieFilter.java=UTF-8
+encoding//src/main/java/bachkhoanews/filter/JDBCFilter.java=UTF-8
+encoding//src/main/java/bachkhoanews/servlet/HomeServlet.java=UTF-8
+encoding//src/main/java/bachkhoanews/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/bachkhoanews/servlet/UserInfoServlet.java=UTF-8
+encoding//src/main/java/bachkhoanews/utils/MyUtils.java=UTF-8
